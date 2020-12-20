@@ -1,0 +1,46 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+IP Address: 172.31.20.235
+Extension host agent listening on 44163
+
+
+[12:41:52] Extension host agent started.
+[12:41:54] [127.0.0.1][cdfa80bd][ManagementConnection] New connection established.
+[12:41:54] [127.0.0.1][7b83bea3][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[12:41:54] [127.0.0.1][7b83bea3][ExtensionHostConnection] <1977> Launched Extension Host Process.
+[12:42:37] Listing 0 persistent terminals, 0 total terminals
+[12:56:21] [127.0.0.1][cdfa80bd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:56:22] [127.0.0.1][7b83bea3][ExtensionHostConnection] <1977> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[12:56:22] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[12:56:27] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[12:56:27] Cancelling previous shutdown timeout
+[12:56:28] [127.0.0.1][38aba3b9][ManagementConnection] New connection established.
+[12:56:28] [127.0.0.1][5b022bed][ExtensionHostConnection] New connection established.
+[12:56:28] [127.0.0.1][5b022bed][ExtensionHostConnection] <12356> Launched Extension Host Process.
+[12:56:38] Listing 1 persistent terminals, 1 total terminals
+New EH opened, aborting shutdown
+[13:01:27] New EH opened, aborting shutdown
+[13:01:38] The short reconnection grace time of 5m has expired, so the terminal process with pid 2007 will be shutdown.
+[13:04:23] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[IPC Library: File Watcher (chokidar)] Unhandled Promise Rejection:  Canceled: Canceled
+    at Object.t.canceled (/home/ubuntu/.vscode-server/bin/fcac248b077b55bae4ba5bab613fd6e9156c2f0c/out/vs/platform/files/node/watcher/unix/watcherApp.js:7:632)
+    at l.cancel (/home/ubuntu/.vscode-server/bin/fcac248b077b55bae4ba5bab613fd6e9156c2f0c/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:880)
+    at t.ThrottledDelayer.cancel (/home/ubuntu/.vscode-server/bin/fcac248b077b55bae4ba5bab613fd6e9156c2f0c/out/vs/platform/files/node/watcher/unix/watcherApp.js:32:260)
+    at Object.stop (/home/ubuntu/.vscode-server/bin/fcac248b077b55bae4ba5bab613fd6e9156c2f0c/out/vs/platform/files/node/watcher/unix/watcherApp.js:150:720)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+    at async m.stop (/home/ubuntu/.vscode-server/bin/fcac248b077b55bae4ba5bab613fd6e9156c2f0c/out/vs/platform/files/node/watcher/unix/watcherApp.js:152:324)
+[14:26:33] [127.0.0.1][38aba3b9][ManagementConnection] The client has reconnected.
+[14:26:33] [127.0.0.1][5b022bed][ExtensionHostConnection] The client has reconnected.

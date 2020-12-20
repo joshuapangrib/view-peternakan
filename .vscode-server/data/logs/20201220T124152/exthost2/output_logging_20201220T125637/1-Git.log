@@ -1,0 +1,252 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ubuntu/laravel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/laravel/docker-compose.yml
+> git cat-file -s 66f7e4025d1f7b3c0ec0e04859492c05de4d4394
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/.env
+> git ls-files --stage -- /home/ubuntu/laravel/src/.env
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/laravel/src/.env
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_133354_create_tbloperator_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_133354_create_tbloperator_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_134402_create_tblmenuternak_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_134402_create_tblmenuternak_table.php
+> git show --textconv :src/database/migrations/2020_12_20_133354_create_tbloperator_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_133354_create_tbloperator_table.php
+> git show --textconv :src/database/migrations/2020_12_20_134402_create_tblmenuternak_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_134402_create_tblmenuternak_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_134704_create_tblmenupakan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_134704_create_tblmenupakan_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_135025_create_tblmenuobatan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_135025_create_tblmenuobatan_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_135313_create_tblkepalakandang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_135313_create_tblkepalakandang_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_135633_create_tblkepalapakan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_135633_create_tblkepalapakan_table.php
+> git show --textconv :src/database/migrations/2020_12_20_135313_create_tblkepalakandang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_135313_create_tblkepalakandang_table.php
+> git show --textconv :src/database/migrations/2020_12_20_135633_create_tblkepalapakan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_135633_create_tblkepalapakan_table.php
+> git show --textconv :src/database/migrations/2020_12_20_135313_create_tblkepalakandang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_135313_create_tblkepalakandang_table.php
+> git show --textconv :src/database/migrations/2020_12_20_135025_create_tblmenuobatan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_135025_create_tblmenuobatan_table.php
+> git show --textconv :src/database/migrations/2020_12_20_135313_create_tblkepalakandang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_135313_create_tblkepalakandang_table.php
+> git show --textconv :src/database/migrations/2020_12_20_134704_create_tblmenupakan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_134704_create_tblmenupakan_table.php
+> git show --textconv :src/database/migrations/2020_12_20_135313_create_tblkepalakandang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_135313_create_tblkepalakandang_table.php
+> git show --textconv :src/database/migrations/2020_12_20_135633_create_tblkepalapakan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_135633_create_tblkepalapakan_table.php
+> git show --textconv :src/database/migrations/2020_12_20_134402_create_tblmenuternak_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_134402_create_tblmenuternak_table.php
+> git show --textconv :src/database/migrations/2020_12_20_135633_create_tblkepalapakan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_135633_create_tblkepalapakan_table.php
+> git show --textconv :src/database/migrations/2020_12_20_133354_create_tbloperator_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_133354_create_tbloperator_table.php
+> git show --textconv :src/database/migrations/2020_12_20_135633_create_tblkepalapakan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_135633_create_tblkepalapakan_table.php
+> git show --textconv :src/.env
+> git ls-files --stage -- /home/ubuntu/laravel/src/.env
+> git show --textconv :src/database/migrations/2020_12_20_133354_create_tbloperator_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_133354_create_tbloperator_table.php
+> git show --textconv :src/database/migrations/2020_12_20_135633_create_tblkepalapakan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_135633_create_tblkepalapakan_table.php
+> git show --textconv :src/database/migrations/2020_12_20_134704_create_tblmenupakan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_134704_create_tblmenupakan_table.php
+> git show --textconv :src/database/migrations/2020_12_20_134402_create_tblmenuternak_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_134402_create_tblmenuternak_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_140226_create_tbloperator_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_140226_create_tbloperator_table.php
+> git show --textconv :src/database/migrations/2014_10_12_000000_create_users_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2014_10_12_000000_create_users_table.php
+> git show --textconv :src/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_140515_create_tbloperator_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_140515_create_tbloperator_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_140646_create_tbloperator_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_140646_create_tbloperator_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_141342_create_tblmenuternak_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_141342_create_tblmenuternak_table.php
+> git show --textconv :src/database/migrations/2020_12_20_140646_create_tbloperator_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_140646_create_tbloperator_table.php
+> git show --textconv :src/database/migrations/2020_12_20_141342_create_tblmenuternak_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_141342_create_tblmenuternak_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_141537_create_tblmenupakan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_141537_create_tblmenupakan_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_141723_create_tblmenuobatan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_141723_create_tblmenuobatan_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_141903_create_tblkepalakandang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_141903_create_tblkepalakandang_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_142022_create_tblkepalapakan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_142022_create_tblkepalapakan_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_142139_create_tblkepalaternak_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_142139_create_tblkepalaternak_table.php
+> git show --textconv :src/database/migrations/2020_12_20_142022_create_tblkepalapakan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_142022_create_tblkepalapakan_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_142306_create_tblkepalamedis_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_142306_create_tblkepalamedis_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_142415_create_konsumen_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_142415_create_konsumen_table.php
+> git show --textconv :src/database/migrations/2020_12_20_142306_create_tblkepalamedis_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_142306_create_tblkepalamedis_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_20_142443_create_tblkonsumen_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_142443_create_tblkonsumen_table.php
+> git show --textconv :src/database/migrations/2020_12_20_140646_create_tbloperator_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_140646_create_tbloperator_table.php
+> git show --textconv :src/database/migrations/2020_12_20_141342_create_tblmenuternak_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_141342_create_tblmenuternak_table.php
+> git show --textconv :src/database/migrations/2020_12_20_141537_create_tblmenupakan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_141537_create_tblmenupakan_table.php
+> git show --textconv :src/database/migrations/2020_12_20_141723_create_tblmenuobatan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_141723_create_tblmenuobatan_table.php
+> git show --textconv :src/database/migrations/2020_12_20_141903_create_tblkepalakandang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_141903_create_tblkepalakandang_table.php
+> git show --textconv :src/database/migrations/2020_12_20_142022_create_tblkepalapakan_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_142022_create_tblkepalapakan_table.php
+> git show --textconv :src/database/migrations/2020_12_20_142306_create_tblkepalamedis_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_142306_create_tblkepalamedis_table.php
