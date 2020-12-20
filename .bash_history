@@ -7,3 +7,10 @@ docker-compose run --rm composer create-project --prefer-dist laravel/laravel .
 sudo docker-compose run --rm composer create-project --prefer-dist laravel/laravel .
 sudo docker-compose up -d site
 sudo su
+clear
+git init
+git add .
+git commit -m "buat file"
+git remote add origin https://github.com/joshuapangrib/diagramERD.git
+git push -u origin master
+clear

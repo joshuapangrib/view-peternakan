@@ -250,3 +250,173 @@ Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/mast
 > git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_142022_create_tblkepalapakan_table.php
 > git show --textconv :src/database/migrations/2020_12_20_142306_create_tblkepalamedis_table.php
 > git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_142306_create_tblkepalamedis_table.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/resources/views/home.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/home.blade.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/resources/views/layouts/app.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/layouts/app.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/resources/views/layouts/app2.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/layouts/app2.blade.php
+> git show --textconv :src/resources/views/layouts/app.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/layouts/app.blade.php
+> git show --textconv :src/resources/views/layouts/app2.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/layouts/app2.blade.php
+> git show --textconv :src/resources/views/home.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/home.blade.php
+> git show --textconv :src/resources/views/layouts/app2.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/layouts/app2.blade.php
+> git show --textconv :src/resources/views/home.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/home.blade.php
+> git show --textconv :src/resources/views/layouts/app2.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/layouts/app2.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/resources/views/operator.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/operator.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/resources/views/menuternak.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menuternak.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/resources/views/menupakan.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menupakan.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/resources/views/menuobatan.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menuobatan.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/resources/views/kepalakandang.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalakandang.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/resources/views/kepalapakan.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalapakan.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/resources/views/kepalamedis.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalamedis.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/resources/views/konsumen.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/konsumen.blade.php
+> git show --textconv :src/resources/views/konsumen.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/konsumen.blade.php
+> git show --textconv :src/database/migrations/2020_12_20_142443_create_tblkonsumen_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_142443_create_tblkonsumen_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/routes/web.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/routes/web.php
+> git show --textconv :src/resources/views/layouts/app2.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/layouts/app2.blade.php
+> git show --textconv :src/routes/web.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/routes/web.php
+> git show --textconv :src/resources/views/layouts/app2.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/layouts/app2.blade.php
+> git show --textconv :src/resources/views/home.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/home.blade.php
+> git show --textconv :src/resources/views/layouts/app2.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/layouts/app2.blade.php
+> git show --textconv :src/resources/views/kepalakandang.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalakandang.blade.php
+> git show --textconv :src/resources/views/kepalamedis.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalamedis.blade.php
+> git show --textconv :src/resources/views/kepalapakan.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalapakan.blade.php
+> git show --textconv :src/resources/views/konsumen.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/konsumen.blade.php
+> git show --textconv :src/resources/views/menuobatan.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menuobatan.blade.php
+> git show --textconv :src/resources/views/menupakan.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menupakan.blade.php
+> git show --textconv :src/resources/views/menuternak.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menuternak.blade.php
+> git show --textconv :src/resources/views/operator.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/operator.blade.php
+> git show --textconv :src/resources/views/menuternak.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menuternak.blade.php
+> git show --textconv :src/resources/views/layouts/app2.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/layouts/app2.blade.php
+> git show --textconv :src/resources/views/operator.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/operator.blade.php
+> git show --textconv :src/resources/views/layouts/app2.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/layouts/app2.blade.php
+> git show --textconv :src/resources/views/operator.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/operator.blade.php
+> git show --textconv :src/resources/views/home.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/home.blade.php
+> git show --textconv :src/resources/views/operator.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/operator.blade.php
+> git show --textconv :src/resources/views/home.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/home.blade.php
+> git show --textconv :src/resources/views/operator.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/operator.blade.php
+> git show --textconv :src/resources/views/home.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/home.blade.php
+> git show --textconv :src/resources/views/operator.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/operator.blade.php
+> git show --textconv :src/resources/views/home.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/home.blade.php
+> git show --textconv :src/resources/views/menuternak.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menuternak.blade.php
+> git show --textconv :src/resources/views/menupakan.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menupakan.blade.php
+> git show --textconv :src/resources/views/menuobatan.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menuobatan.blade.php
+> git show --textconv :src/resources/views/kepalakandang.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalakandang.blade.php
+> git show --textconv :src/database/migrations/2020_12_20_141903_create_tblkepalakandang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_141903_create_tblkepalakandang_table.php
+> git show --textconv :src/resources/views/kepalakandang.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalakandang.blade.php
+> git show --textconv :src/resources/views/menuobatan.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menuobatan.blade.php
+> git show --textconv :src/resources/views/kepalakandang.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalakandang.blade.php
+> git show --textconv :src/database/migrations/2020_12_20_141903_create_tblkepalakandang_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_141903_create_tblkepalakandang_table.php
+> git show --textconv :src/resources/views/konsumen.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/konsumen.blade.php
+> git show --textconv :src/database/migrations/2020_12_20_142443_create_tblkonsumen_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_20_142443_create_tblkonsumen_table.php
+> git show --textconv :src/resources/views/konsumen.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/konsumen.blade.php
+> git show --textconv :src/resources/views/layouts/app2.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/layouts/app2.blade.php
+> git show --textconv :src/resources/views/konsumen.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/konsumen.blade.php
+> git show --textconv :src/resources/views/kepalapakan.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalapakan.blade.php
+> git show --textconv :src/resources/views/kepalamedis.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalamedis.blade.php
+> git show --textconv :src/resources/views/kepalakandang.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalakandang.blade.php
+> git show --textconv :src/resources/views/menupakan.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menupakan.blade.php
+> git show --textconv :src/resources/views/kepalapakan.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalapakan.blade.php
+> git show --textconv :src/resources/views/kepalamedis.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalamedis.blade.php
+> git show --textconv :src/resources/views/operator.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/operator.blade.php
+> git show --textconv :src/resources/views/kepalamedis.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalamedis.blade.php
+> git show --textconv :src/resources/views/operator.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/operator.blade.php
+> git show --textconv :src/resources/views/kepalamedis.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalamedis.blade.php
+> git show --textconv :src/resources/views/home.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/home.blade.php
+> git show --textconv :src/resources/views/kepalakandang.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalakandang.blade.php
+> git show --textconv :src/resources/views/home.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/home.blade.php
+> git show --textconv :src/resources/views/menuternak.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menuternak.blade.php
+> git show --textconv :src/resources/views/menupakan.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menupakan.blade.php
+> git show --textconv :src/resources/views/menuobatan.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menuobatan.blade.php
+> git show --textconv :src/resources/views/kepalakandang.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalakandang.blade.php
+> git show --textconv :src/resources/views/kepalapakan.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/kepalapakan.blade.php
+> git show --textconv :src/resources/views/layouts/app2.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/layouts/app2.blade.php
